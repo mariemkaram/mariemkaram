@@ -3,6 +3,8 @@
   <a href="https://www.linkedin.com/in/mariem-karam/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn Profile" />
   </a>
+  -------------------
+  <hr/>
  <a href="mailto:mariemkaram89@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Email Me"/>
   </a>
